@@ -27,10 +27,3 @@ How to contact me: Just send email to:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="csharp" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" title="go" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="docker" width="40" height="40"/>&nbsp;
-
-## Github Stats
-![Metrics](/github-metrics.svg)
-
-[![](https://visitcount.itsvg.in/api?id=solar05&label=Profile%20Views&color=11&pretty=false)](https://visitcount.itsvg.in)
-
----
