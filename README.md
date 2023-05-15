@@ -19,7 +19,7 @@ How to contact me: Just send email to:
 
 ---
 
-### Languages and tools
+### Main Stack
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="linux" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="bash" width="40" height="40"/>&nbsp;
