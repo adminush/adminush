@@ -1,9 +1,11 @@
-<div id="header" align="center">
-    <h1>Hi there 👋</h1>
-    <h3>SOC dude and father mother.hacker</h3>
-</div>
+## Hi there 👋
+I'm a Elixir Developer, currently working at [samolet](https://samolet.ru/).
 
-<div id="socials" align="center">
+My education: Master's Degree in Informatics and Computer Engineering
+
+How to contact me: Just send email to:
+
+<div id="socials">
   <a href="telegram-url">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
