@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm a Elixir Developer, currently working at [samolet](https://samolet.ru/).
 
-My education: Information Security Specialist
+My education: Information Security Specialist.
 
 How to contact me: Just send email to:
 
@@ -12,9 +12,8 @@ How to contact me: Just send email to:
 </div>
 
 ### About me
-- 🌱 I’m currently learning **SOC and CTF**
-- 📝 I regularly write articles on [Medium](medium-link)
-- 📄 Know about my experiences [CV](cv-link)
+- 🌱 A wild fan of directions **SOC and CTF**
+- 📝 Team captain and founder [mother.hacker](https://ctftime.org/team/182012)
 - 📫 Reach me by Telegram: @gonagive
 - 🌍 Russia
 
