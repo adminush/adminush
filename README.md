@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm a Elixir Developer, currently working at [samolet](https://samolet.ru/).
 
-My education: Master's Degree in Informatics and Computer Engineering
+My education: Information Security Specialist
 
 How to contact me: Just send email to:
 
