@@ -3,11 +3,11 @@ I'm a Elixir Developer, currently working at [samolet](https://samolet.ru/).
 
 My education: Information Security Specialist.
 
-How to contact me: Just send email to:
+How to contact me: Just send message to:
 
 <div id="socials">
   <a href="telegram-url">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" href="https://t.me/gonagive"/>
   </a>
 </div>
 
