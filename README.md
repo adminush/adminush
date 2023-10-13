@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a Elixir Developer, currently working at [samolet](https://samolet.ru/).
+I'm a self-taught Developer, currently working at [samolet](https://samolet.ru/).
 
 My education: Information Security Specialist.
 
