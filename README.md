@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a self-taught Developer, currently working at [samolet](https://samolet.ru/).
+I'm a self-taught Developer, currently working at [Tutu](https://tutu.ru/).
 
 My education: Information Security Specialist.
 
